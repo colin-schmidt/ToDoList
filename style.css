@@ -1,0 +1,32 @@
+body {
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(22, 15, 85),
+    rgb(52, 40, 161)
+  );
+}
+
+.title {
+  text-align: center;
+  margin-top: 100px;
+  font-family: sans-serif;
+  font-size: 70px;
+  color: white;
+}
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 30px;
+  color: white;
+}
+
+.check {
+  height: 40px;
+  width: 40px;
+}
+
+.x {
+  height: 40px;
+  width: 40px;
+}
