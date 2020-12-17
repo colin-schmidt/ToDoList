@@ -1,8 +1,8 @@
 body {
   background-image: linear-gradient(
     to bottom right,
-    rgb(22, 15, 85),
-    rgb(52, 40, 161)
+    rgb(49, 35, 172),
+    rgb(40, 161, 110)
   );
 }
 
@@ -14,19 +14,19 @@ body {
   color: white;
 }
 
-p {
-  text-align: center;
+.list {
+  display: flex;
   font-family: sans-serif;
   font-size: 30px;
   color: white;
+  line-height: 100%;
 }
 
-.check {
-  height: 40px;
-  width: 40px;
+.btn {
+  height: 3%;
+  width: 3%;
 }
 
-.x {
-  height: 40px;
-  width: 40px;
+.buttons {
+  display: flex;
 }
